@@ -1,0 +1,1 @@
+Usage: `python ./latex_deepl_translator.py -i /path/to/source.tex -t FR`
